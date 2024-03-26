@@ -1,0 +1,2 @@
+../Core/Src/gsc.c:15:6:Encode_Msg_AHRS	24	static
+../Core/Src/gsc.c:87:6:Encode_Msg_PID_Gain	40	static
